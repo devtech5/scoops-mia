@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "title": "SCOOPS MIA | Agricultural Cooperative Society",
+    "description": "SCOOPS MIA supports Ivorian agricultural producers toward sustainable, well-structured and export-oriented farming."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "activities": "Our Activities",
+    "news": "News",
+    "contact": "Contact",
+    "cta": "Contact Us"
+  },
+  "hero": {
+    "eyebrow": "AGRICULTURAL COOPERATIVE SOCIETY MIA",
+    "words": ["Grow", "Structure", "Export", "Sustain"],
+    "titleSuffix": "Ivorian agriculture",
+    "subtitle": "SCOOPS MIA federates producers, adds value to agricultural sectors and builds sustainable value chains from the field to the international market.",
+    "cta1": "Discover the cooperative",
+    "cta2": "Our activities",
+    "badge": "Over 7 years serving producers"
+  },
+  "stats": {
+    "items": [
+      { "value": "7+", "label": "Years of experience" },
+      { "value": "1200+", "label": "Partner producers" },
+      { "value": "5", "label": "Agricultural sectors" },
+      { "value": "3", "label": "Regions of operation" }
+    ]
+  },
+  "about": {
+    "eyebrow": "ABOUT US",
+    "title": "At the heart of the Ivorian agricultural value chain",
+    "paragraphs": [
+      "The Agricultural Cooperative Society MIA (SCOOPS MIA) supports local producers in structuring, producing and marketing quality agricultural raw materials.",
+      "We believe strong agriculture is built together with its producers: training, access to inputs, technical support and guaranteed market access are at the heart of our daily commitment."
+    ],
+    "cta": "Learn more",
+    "highlightTitle": "Our ambition",
+    "highlightText": "To make SCOOPS MIA a reference partner for sustainable, competitive Ivorian agriculture that creates value for its members.",
+    "experienceBadge": "7+ years of hands-on commitment"
+  },
+  "activities": {
+    "eyebrow": "OUR ACTIVITIES",
+    "title": "An integrated agricultural value chain",
+    "subtitle": "From supporting producers to marketing, SCOOPS MIA operates at every stage of the sector.",
+    "items": [
+      {
+        "title": "Agricultural Production",
+        "description": "Supporting member producers to improve yields and farming practices."
+      },
+      {
+        "title": "Collection & Trade",
+        "description": "Purchasing, collecting and marketing agricultural products from cooperative members."
+      },
+      {
+        "title": "Training & Support",
+        "description": "Training programs on good agricultural practices and cooperative management."
+      },
+      {
+        "title": "Agroforestry",
+        "description": "Promoting sustainable and environmentally friendly farming practices."
+      },
+      {
+        "title": "Logistics & Export",
+        "description": "Organizing transport, packaging and export to international markets."
+      },
+      {
+        "title": "Social Support",
+        "description": "Social and solidarity initiatives for the benefit of producer communities."
+      }
+    ]
+  },
+  "values": {
+    "eyebrow": "OUR VALUES",
+    "title": "The principles guiding our action",
+    "items": [
+      { "title": "Integrity", "description": "We act with honesty, transparency and a high standard of ethics." },
+      { "title": "Excellence", "description": "We strive for excellence in every activity and service we provide." },
+      { "title": "Solidarity", "description": "We place producers and communities at the center of our decisions." },
+      { "title": "Innovation", "description": "We encourage modern and sustainable agricultural practices." }
+    ]
+  },
+  "mission": {
+    "eyebrow": "VISION & MISSION",
+    "title": "Our direction, our impact",
+    "visionTitle": "Our vision",
+    "visionText": "To be recognized by producers and partners as the reference cooperative for sustainable and profitable Ivorian agriculture.",
+    "missionTitle": "Our mission",
+    "missionText": "To support Ivorian agricultural producers, from production to marketing, within a sustainable and solidarity-based development approach."
+  },
+  "news": {
+    "eyebrow": "NEWS",
+    "title": "The latest news from the cooperative",
+    "cta": "View all news",
+    "readMore": "Read more",
+    "items": [
+      {
+        "category": "Training",
+        "date": "March 12, 2026",
+        "title": "Training session on good agricultural practices",
+        "excerpt": "SCOOPS MIA organized a training session for member producers on sustainable farming techniques."
+      },
+      {
+        "category": "Partnership",
+        "date": "Feb 20, 2026",
+        "title": "New partnership to improve access to agricultural inputs",
+        "excerpt": "The cooperative is strengthening its partner network to facilitate access to inputs for its members."
+      },
+      {
+        "category": "Export",
+        "date": "Jan 05, 2026",
+        "title": "New export campaign successfully launched",
+        "excerpt": "SCOOPS MIA continues developing its export markets with a new marketing campaign."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Join a cooperative moving Ivorian agriculture forward",
+    "subtitle": "Producer, partner or investor, let's talk about your agricultural projects.",
+    "button": "Contact us"
+  },
+  "footer": {
+    "description": "Agricultural Cooperative Society MIA — serving Ivorian agricultural producers for over 7 years.",
+    "quickLinksTitle": "Quick Links",
+    "activitiesTitle": "Our Activities",
+    "contactTitle": "Contact",
+    "address": "Côte d'Ivoire",
+    "rights": "All rights reserved."
+  },
+  "aboutPage": {
+    "hero": "About Us",
+    "heroSubtitle": "Discover the history, values and commitment of the Agricultural Cooperative Society MIA.",
+    "historyTitle": "Our history",
+    "historyText": "Born from the will to structure and professionalize local agricultural production, SCOOPS MIA today brings together committed producers around shared goals: quality, sustainability and market access.",
+    "gerantTitle": "A word from the Manager",
+    "gerantText": "Every day, we work alongside our producers to build a stronger, fairer, future-oriented Ivorian agriculture. Our success is inseparable from theirs.",
+    "gerantName": "The Manager",
+    "gerantRole": "Agricultural Cooperative Society MIA (SCOOPS MIA)",
+    "engagementTitle": "Our commitment",
+    "engagementItems": [
+      { "title": "Support", "description": "Continuous technical and human support for every member producer." },
+      { "title": "Structure", "description": "Organizing sectors to guarantee quality, traceability and consistency." },
+      { "title": "Add Value", "description": "Creating more value for producers and their communities." }
+    ]
+  },
+  "activitiesPage": {
+    "hero": "Our Activities",
+    "heroSubtitle": "A complete intervention, from supporting producers to international marketing.",
+    "closingTitle": "An integrated approach",
+    "closingText": "By covering the entire value chain, SCOOPS MIA guarantees stable market access for its producers and quality raw material for its partners, produced according to sustainable standards."
+  },
+  "newsPage": {
+    "hero": "News",
+    "heroSubtitle": "Follow the cooperative's highlights and initiatives."
+  },
+  "contactPage": {
+    "hero": "Contact Us",
+    "heroSubtitle": "A question, a project, a partnership? Our team is here to help.",
+    "formTitle": "Send us a message",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Your message",
+    "send": "Send message",
+    "infoTitle": "Our contact details",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "addressValue": "Côte d'Ivoire",
+    "hoursLabel": "Hours",
+    "hoursValue": "Monday - Friday: 8:00 AM - 5:30 PM"
+  }
+}
