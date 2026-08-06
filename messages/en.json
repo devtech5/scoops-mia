@@ -6,6 +6,7 @@
   "nav": {
     "home": "Home",
     "about": "About Us",
+    "products": "Our Products",
     "activities": "Our Activities",
     "news": "News",
     "contact": "Contact",
@@ -142,6 +143,47 @@
       { "title": "Support", "description": "Continuous technical and human support for every member producer." },
       { "title": "Structure", "description": "Organizing sectors to guarantee quality, traceability and consistency." },
       { "title": "Add Value", "description": "Creating more value for producers and their communities." }
+    ]
+  },
+  "productsPage": {
+    "hero": "Our Products",
+    "heroSubtitle": "Selected agricultural raw materials, produced and packaged to rigorous quality standards.",
+    "qualityTitle": "Quality & traceability",
+    "qualityText": "Every product is collected from our member producers, checked and packaged according to strict quality requirements, to meet the standards of local and international markets.",
+    "orderTitle": "Interested in a product?",
+    "orderText": "Contact our sales team for availability, volumes and export terms.",
+    "orderCta": "Request a quote",
+    "items": [
+      {
+        "name": "Cocoa",
+        "category": "Export",
+        "description": "Merchant-grade cocoa beans, collected from our cooperative members and packaged to export standards."
+      },
+      {
+        "name": "Cashew Nuts",
+        "category": "Export",
+        "description": "Raw cashew nuts, sorted and graded, sourced from our partner producers' plantations."
+      },
+      {
+        "name": "Natural Rubber",
+        "category": "Industry",
+        "description": "Cup lump and rubber coagulum, collected and prepared for industrial processing."
+      },
+      {
+        "name": "Palm Oil",
+        "category": "Agro-industry",
+        "description": "Palm fruit bunches and crude palm oil, produced through sustainable farming practices."
+      },
+      {
+        "name": "Coffee",
+        "category": "Export",
+        "description": "Quality merchant coffee, grown and harvested by our member producers."
+      },
+      {
+        "name": "Other Food Crops",
+        "category": "Local market",
+        "description": "Rice, corn and other food crops for local food security."
+      }
     ]
   },
   "activitiesPage": {

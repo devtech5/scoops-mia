@@ -6,6 +6,7 @@
   "nav": {
     "home": "Accueil",
     "about": "Qui sommes-nous",
+    "products": "Nos produits",
     "activities": "Nos activités",
     "news": "Actualités",
     "contact": "Contact",
@@ -142,6 +143,47 @@
       { "title": "Accompagner", "description": "Un appui technique et humain continu auprès de chaque producteur membre." },
       { "title": "Structurer", "description": "Organiser les filières pour garantir qualité, traçabilité et régularité." },
       { "title": "Valoriser", "description": "Créer davantage de valeur pour les producteurs et leurs communautés." }
+    ]
+  },
+  "productsPage": {
+    "hero": "Nos produits",
+    "heroSubtitle": "Des matières premières agricoles sélectionnées, produites et conditionnées selon des standards de qualité rigoureux.",
+    "qualityTitle": "Qualité & traçabilité",
+    "qualityText": "Chaque produit est collecté auprès de nos producteurs membres, contrôlé et conditionné selon des exigences strictes de qualité, pour répondre aux standards des marchés locaux et internationaux.",
+    "orderTitle": "Un produit vous intéresse ?",
+    "orderText": "Contactez notre équipe commerciale pour connaître nos disponibilités, volumes et conditions d'exportation.",
+    "orderCta": "Demander un devis",
+    "items": [
+      {
+        "name": "Cacao",
+        "category": "Export",
+        "description": "Fèves de cacao marchand, collectées auprès de nos coopérateurs et conditionnées selon les standards d'exportation."
+      },
+      {
+        "name": "Anacarde (Noix de cajou)",
+        "category": "Export",
+        "description": "Noix de cajou brutes, triées et calibrées, issues des plantations de nos producteurs partenaires."
+      },
+      {
+        "name": "Hévéa (Caoutchouc naturel)",
+        "category": "Industrie",
+        "description": "Fonds de tasse et coagulum de caoutchouc naturel, collectés et préparés pour la transformation industrielle."
+      },
+      {
+        "name": "Palmier à huile",
+        "category": "Agro-industrie",
+        "description": "Régimes et huile de palme brute, produits selon des pratiques agricoles durables."
+      },
+      {
+        "name": "Café",
+        "category": "Export",
+        "description": "Café marchand de qualité, cultivé et récolté par nos producteurs membres."
+      },
+      {
+        "name": "Autres cultures vivrières",
+        "category": "Marché local",
+        "description": "Riz, maïs et autres cultures vivrières destinées à la sécurité alimentaire locale."
+      }
     ]
   },
   "activitiesPage": {

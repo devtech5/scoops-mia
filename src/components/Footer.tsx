@@ -45,6 +45,7 @@ export function Footer() {
             <ul className="mt-5 space-y-3 text-sm text-white/70">
               <li><Link href="/" className="hover:text-white transition-colors">{nav("home")}</Link></li>
               <li><Link href="/about" className="hover:text-white transition-colors">{nav("about")}</Link></li>
+              <li><Link href="/products" className="hover:text-white transition-colors">{nav("products")}</Link></li>
               <li><Link href="/activities" className="hover:text-white transition-colors">{nav("activities")}</Link></li>
               <li><Link href="/news" className="hover:text-white transition-colors">{nav("news")}</Link></li>
               <li><Link href="/contact" className="hover:text-white transition-colors">{nav("contact")}</Link></li>
