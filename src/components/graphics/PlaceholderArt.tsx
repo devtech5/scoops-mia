@@ -7,6 +7,8 @@ import {
   TreeDeciduous,
   HandHeart,
   Tractor,
+  Package,
+  Circle,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
@@ -19,6 +21,8 @@ const ICONS: Record<string, LucideIcon> = {
   tree: TreeDeciduous,
   heart: HandHeart,
   tractor: Tractor,
+  bag: Package,
+  tuber: Circle,
 };
 
 const GRADIENTS: Record<string, string> = {

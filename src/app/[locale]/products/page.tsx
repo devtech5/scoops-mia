@@ -1,13 +1,22 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Bean, Nut, Droplet, TreeDeciduous, Coffee, Wheat, ShieldCheck, ArrowUpRight } from "lucide-react";
+import { Bean, Nut, Droplet, TreeDeciduous, Coffee, Wheat, Circle, Package, ShieldCheck, ArrowUpRight } from "lucide-react";
 import { PageHero } from "@/components/PageHero";
 import { PlaceholderArt } from "@/components/graphics/PlaceholderArt";
 import { Reveal } from "@/components/motion/Reveal";
 import { Link } from "@/i18n/navigation";
 
-const icons = [Bean, Nut, Droplet, TreeDeciduous, Coffee, Wheat];
-const artIcons = ["sprout", "tree", "warehouse", "tractor", "heart", "ship"] as const;
-const tones = ["a", "c", "b", "d", "a", "c"] as const;
+const icons = [Bean, Nut, Droplet, TreeDeciduous, Coffee, Wheat, Circle, Package];
+const artIcons = [
+  "sprout",
+  "tree",
+  "warehouse",
+  "tractor",
+  "heart",
+  "ship",
+  "tuber",
+  "bag",
+] as const;
+const tones = ["a", "c", "b", "d", "a", "c", "b", "d"] as const;
 
 export default async function ProductsPage({
   params,

@@ -183,6 +183,16 @@
         "name": "Other Food Crops",
         "category": "Local market",
         "description": "Rice, corn and other food crops for local food security."
+      },
+      {
+        "name": "Potatoes",
+        "category": "Local market",
+        "description": "Fresh potatoes grown by our producers and distributed on the local market."
+      },
+      {
+        "name": "Jute Bags",
+        "category": "Packaging",
+        "description": "Sturdy, biodegradable jute bags suited for packaging and transporting agricultural products."
       }
     ]
   },

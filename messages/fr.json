@@ -183,6 +183,16 @@
         "name": "Autres cultures vivrières",
         "category": "Marché local",
         "description": "Riz, maïs et autres cultures vivrières destinées à la sécurité alimentaire locale."
+      },
+      {
+        "name": "Pommes de terre",
+        "category": "Marché local",
+        "description": "Pommes de terre fraîches, cultivées par nos producteurs et distribuées sur le marché local."
+      },
+      {
+        "name": "Sacs de jute",
+        "category": "Conditionnement",
+        "description": "Sacs de jute robustes et biodégradables, adaptés au conditionnement et au transport des produits agricoles."
       }
     ]
   },
