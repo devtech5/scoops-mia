@@ -16,8 +16,8 @@ export default async function ContactPage({
   const t = await getTranslations({ locale, namespace: "contactPage" });
 
   const infoItems = [
-    { icon: Phone, label: t("phoneLabel"), value: "00225 07 08 78 18" },
-    { icon: Mail, label: t("emailLabel"), value: "contact@scoops-mia.com" },
+    { icon: Phone, label: t("phoneLabel"), value: "+225 0700387372" },
+    { icon: Mail, label: t("emailLabel"), value: "info@scoops-mia.com" },
     { icon: MapPin, label: t("addressLabel"), value: t("addressValue") },
     { icon: Clock, label: t("hoursLabel"), value: t("hoursValue") },
   ];

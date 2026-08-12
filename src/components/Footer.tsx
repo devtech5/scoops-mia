@@ -70,11 +70,11 @@ export function Footer() {
             <ul className="mt-5 space-y-4 text-sm text-white/70">
               <li className="flex items-start gap-3">
                 <Phone className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
-                <span>00225 07 08 78 18 / 00225 07 07 09 41 57</span>
+                <span>+225 0700387372</span>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
-                <span>contact@scoops-mia.com</span>
+                <span>info@scoops-mia.com</span>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
@@ -87,6 +87,17 @@ export function Footer() {
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-white/10 pt-6 text-xs text-white/50 sm:flex-row">
           <p>© {new Date().getFullYear()} SCOOPS MIA. {t("rights")}</p>
           <p>Société Coopérative Agricole MIA</p>
+          <p>
+            Site réalisé par{" "}
+            <a
+              href="https://altes-rho.vercel.app/fr"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-white/70 transition-colors hover:text-brand-300"
+            >
+              ALTES
+            </a>
+          </p>
         </div>
       </div>
     </footer>

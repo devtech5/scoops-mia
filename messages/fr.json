@@ -126,7 +126,7 @@
     "quickLinksTitle": "Liens rapides",
     "activitiesTitle": "Nos activités",
     "contactTitle": "Contact",
-    "address": "Côte d'Ivoire",
+    "address": "Abidjan - Côte d'Ivoire",
     "rights": "Tous droits réservés."
   },
   "aboutPage": {
@@ -220,7 +220,7 @@
     "phoneLabel": "Téléphone",
     "emailLabel": "E-mail",
     "addressLabel": "Adresse",
-    "addressValue": "Côte d'Ivoire",
+    "addressValue": "Abidjan - Côte d'Ivoire",
     "hoursLabel": "Horaires",
     "hoursValue": "Lundi - Vendredi : 8h00 - 17h30"
   }
