@@ -16,8 +16,8 @@ export default async function ContactPage({
   const t = await getTranslations({ locale, namespace: "contactPage" });
 
   const infoItems = [
-    { icon: Phone, label: t("phoneLabel"), value: "+225 0700387372" },
-    { icon: Mail, label: t("emailLabel"), value: "info@scoops-mia.com" },
+    { icon: Phone, label: t("phoneLabel"), value: "+225 0700387372", href: "tel:+2250700387372" },
+    { icon: Mail, label: t("emailLabel"), value: "info@scoops-mia.com", href: "mailto:info@scoops-mia.com" },
     { icon: MapPin, label: t("addressLabel"), value: t("addressValue") },
     { icon: Clock, label: t("hoursLabel"), value: t("hoursValue") },
   ];
@@ -46,9 +46,18 @@ export default async function ContactPage({
                       <span className="block text-xs font-semibold text-stone-400">
                         {item.label}
                       </span>
-                      <span className="block text-sm font-medium text-stone-700">
-                        {item.value}
-                      </span>
+                      {item.href ? (
+                        <a
+                          href={item.href}
+                          className="block text-sm font-medium text-stone-700 hover:text-brand-600 transition-colors"
+                        >
+                          {item.value}
+                        </a>
+                      ) : (
+                        <span className="block text-sm font-medium text-stone-700">
+                          {item.value}
+                        </span>
+                      )}
                     </span>
                   </li>
                 ))}

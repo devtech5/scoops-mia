@@ -70,11 +70,15 @@ export function Footer() {
             <ul className="mt-5 space-y-4 text-sm text-white/70">
               <li className="flex items-start gap-3">
                 <Phone className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
-                <span>+225 0700387372</span>
+                <a href="tel:+2250700387372" className="hover:text-white transition-colors">
+                  +225 0700387372
+                </a>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
-                <span>info@scoops-mia.com</span>
+                <a href="mailto:info@scoops-mia.com" className="hover:text-white transition-colors">
+                  info@scoops-mia.com
+                </a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0 text-brand-400" />
